@@ -45,7 +45,7 @@ const Hero = () => {
         <Image
         
           data-image
-          src="/images/blob.jpg"
+          src="./images/blob.jpg"
           width={1728}
           height={650}
           alt="Blob"
